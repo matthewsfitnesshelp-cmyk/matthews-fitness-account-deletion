@@ -5,7 +5,10 @@ Users of the Matthews Fitness mobile application may request deletion of their a
 ## How to request account deletion
 1. Send an email to **matthewsfitnesshelp@gmail.com**
 2. Use the subject line: **Account Deletion Request**
-3. Include the email address associated with your Matthews Fitness account
+3. Include **your Matthews Fitness Account ID (Support ID)**, which can be found in the app under **Settings → About**
+4. If available, also include the email address associated with your Matthews Fitness account
+
+Providing the Account ID helps us accurately locate and delete the correct account.
 
 ## Data that will be deleted
 Upon request, the following data associated with the account will be deleted:
@@ -20,5 +23,4 @@ Upon request, the following data associated with the account will be deleted:
 - Certain data may be retained temporarily for legal, security, or operational purposes as required by law
 - Matthews Fitness does not sell user data
 
-For questions related to data deletion, contact **matthewsfitnesshelp@gmail.com**.# matthews-fitness-account-deletion
-Public account and data deletion instructions for the Matthews Fitness mobile application.
+For questions related to data deletion, contact **matthewsfitnesshelp@gmail.com**.
